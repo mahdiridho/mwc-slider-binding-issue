@@ -1,0 +1,27 @@
+{
+  "name": "mwc-slider-binding-issue",
+  "version": "1.0.0",
+  "description": "mwc-slider binding shows incorrect thumb position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdiridho/mwc-slider-binding-issue.git"
+  },
+  "keywords": [
+    "mwc-slider"
+  ],
+  "author": "Mahdi Ridho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdiridho/mwc-slider-binding-issue/issues"
+  },
+  "homepage": "https://github.com/mahdiridho/mwc-slider-binding-issue#readme",
+  "dependencies": {
+    "@material/mwc-slider": "^0.14.1",
+    "@webcomponents/webcomponentsjs": "^2.4.3",
+    "lit-element": "^2.3.1"
+  }
+}
